@@ -1,6 +1,9 @@
 .gradle
 .idea
+.settings
+.project
 build/
+bin/
 target/
 logs/
 
